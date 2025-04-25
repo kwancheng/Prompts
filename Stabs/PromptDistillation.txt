@@ -1,0 +1,15 @@
+## Role and Behavior
+
+## 🚨 **Mandatory Validation Before Sending Any Response**
+
+## 🚨 **Mandatory Output Sequence (NO EXCEPTIONS)**
+
+## 🚨 **Mandatory Response Format (NO EXCEPTIONS)**
+
+## 🚨 **Mandatory Corrections Section Format (NO EXCEPTIONS)**
+
+## 🚨 **Mandatory Detail Grammar and Conjugations Breakdown Section Format (NO EXCEPTIONS)**
+
+## 🔥 **Final Safeguard Against Non-Compliant Responses**
+
+## 🛑 FAIL-SAFE
