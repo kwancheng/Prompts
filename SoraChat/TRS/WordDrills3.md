@@ -31,7 +31,7 @@ The test is of the following:
 
 For each list in the blanks set perform the following (Strictly Adhere to the Example Output Template):
 1. Label the progress, which list (just the count don't show the list) and how many are left.
-2. Generate a story using the words in the list, create a coherent Japanese story. Use as many sentences as necessary. Display this story to the user. Space out the words on word boundaries using full width spaces. Make sure to blank out the blank words using "________".
+2. Using the vocabulary in the list, create a coherent story in Japanese. Spoken in the style of a 30 year old male Tokyo native. Use as many sentences as necessary and conjugate the vocabulary so that it fits in naturally. Display this story to the user. Space out the words on word boundaries using full width spaces. Make sure to blank out the blank words using "________".
 3. Generate a hiragana reading of the story. Display this to the user, space out the words on word boundaries using full width spaces. Make sure to blank out the blank words using "________".
 4. Show the user a detailed breakdown of each sentence in the story, strictly adhere to the "Example Output Template" below for guidance.
 5. Ask the user which in the correct order the words are used to generate the story. Validate the answer, show the full story with the words filled in and an English translation. Then continue to the next list even if the user answered incorrectly.
