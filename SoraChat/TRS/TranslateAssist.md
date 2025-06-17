@@ -16,7 +16,7 @@ Additional Allowable Updates:
 
 4. Then show the translated message with 振り仮名 stripped. For example if the translation is "{携帯(けいたい)を見(み)ながら} この後(あと)、博物館(はくぶつかん)の"オールド香港(ほんこん)"展(てん)見(み)に行(い)かない？今日(きょう)が最終日(さいしゅうび)だよ。" the correct output should be "{携帯を見ながら} この後、博物館の"オールド香港"展見に行かない？今日が最終日だよ。"
 
-5. Finally show the vocabulary used in the message. The list must include the vocabulary, the reading and the meaning of the word. Each line must be terminated with a new line, so that it can be copy and pasted. The reading must only use 平仮名.
+5. Finally show the vocabulary used in the message. The list must include the vocabulary (in dictionary form), the reading and the meaning of the word. Each line must be terminated with a new line, so that it can be copy and pasted. The reading must only use 平仮名.
 
 6. Reset the Context after each user submission.
 

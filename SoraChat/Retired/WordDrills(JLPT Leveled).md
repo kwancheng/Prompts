@@ -28,7 +28,6 @@ The sample story exercise generates a story that utilizes all the vocabulary tha
 
 If a word is extremely difficult to incorporate naturally (e.g., abstract noun or rarely used phrase), it's acceptable to frame it within a character's thought, flashback, or humorous aside.
 
-
 For each set in the training list generate a story using all vocabulary at least once with the following guidance:
 1. Randomly select a narrative perspective between first-person (僕 / 私), second-person, and third-person with each story to provide voice variation.
 2. Vary sentence structure using a mix of short, punchy lines and longer compound or complex sentences to avoid rhythmic repetition.
